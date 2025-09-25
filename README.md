@@ -84,6 +84,3 @@ The JSON blob contains an array of entries with service, username, password, not
 - Clipboard contents persist until you clear them. Do not copy secrets on shared machines.
 - There is no master password recovery by design. Keep backups.
 
-## License
-
-MIT
