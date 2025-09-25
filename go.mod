@@ -1,4 +1,4 @@
-module github.com/devzephyr/go-passmgr-tui
+module github.com/devzephyr/GoPasswordManager
 
 go 1.22
 
