@@ -14,8 +14,8 @@ A small terminal UI password manager written in Go that encrypts all secrets wit
 ## Build
 
 ```bash
-git clone https://github.com/devzephyr/go-passmgr-tui.git
-cd go-passmgr-tui
+git clone https://github.com/devzephyr/GoPasswordManager.git
+cd GoPasswordManager
 go build ./...
 ```
 
